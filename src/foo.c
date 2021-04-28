@@ -4,4 +4,5 @@
 void foo(){
 printf("foo\n");
 printf("foorago\n");
+printf("first change\n");
 }
